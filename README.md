@@ -45,7 +45,7 @@ Meu trabalho envolve:
 
 <table>
 <tr>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
 ### 📿 Fiat Graças
 Loja de terços artesanais com <b>monte o seu terço</b>, catálogo por coleções e painel administrativo de pedidos e produção.
@@ -53,7 +53,7 @@ Loja de terços artesanais com <b>monte o seu terço</b>, catálogo por coleçõ
 <a href="https://fiatgracasterco.com.br"><img src="https://img.shields.io/badge/Ver_site-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
 
 </td>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
 ### 🧘 Vasconcellos Studio
 Site do studio de <b>Fisioterapia e Pilates</b> em Londrina, com apresentação dos serviços e contato direto.
@@ -61,7 +61,18 @@ Site do studio de <b>Fisioterapia e Pilates</b> em Londrina, com apresentação 
 <a href="https://vasconcellostudiolondrina.com.br"><img src="https://img.shields.io/badge/Ver_site-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
 
 </td>
-<td width="33%" valign="top">
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🎧 Sistema de Chamados
+Sistema de suporte <b>em produção</b>: fila por prazo, dashboard da equipe, checklist e linha do tempo. Demo pública com dados fictícios.
+
+<a href="https://heitorperdigao.github.io/sistema-de-chamados-demo/"><img src="https://img.shields.io/badge/Testar_demo-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+<a href="https://github.com/heitorperdigao/sistema-de-chamados-demo"><img src="https://img.shields.io/badge/Código-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+</td>
+<td width="50%" valign="top">
 
 ### ⚡ NoxusSoft
 Minha empresa de desenvolvimento de sites, landing pages e sistemas para negócios locais.
