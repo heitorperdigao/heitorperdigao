@@ -68,6 +68,7 @@ Minha empresa de desenvolvimento de sites, landing pages e sistemas para negóci
 
 <a href="https://noxussoft.com.br"><img src="https://img.shields.io/badge/Site-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
 <a href="https://www.instagram.com/noxussoft/"><img src="https://img.shields.io/badge/Insta-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://github.com/heitorperdigao/noxussoft-site"><img src="https://img.shields.io/badge/Código-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 </td>
 </tr>
