@@ -76,6 +76,22 @@ Minha empresa de desenvolvimento de sites, landing pages e sistemas para negóci
 
 ---
 
+<table>
+<tr>
+<td valign="top">
+
+### 🎫 Sistema de Chamados · Demo
+Help desk com <b>dashboard, kanban com arrastar e soltar, SLA por prioridade, checklist e linha do tempo</b>. Versão de demonstração, com dados fictícios, de um sistema que desenvolvi e que está em produção.
+
+<a href="https://heitorperdigao.github.io/sistema-de-chamados-demo/"><img src="https://img.shields.io/badge/Testar_demo-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+<a href="https://github.com/heitorperdigao/sistema-de-chamados-demo"><img src="https://img.shields.io/badge/Código-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+</td>
+</tr>
+</table>
+
+---
+
 ## 🛠️ Stack Tecnológica
 
 <table>
