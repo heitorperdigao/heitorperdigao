@@ -55,14 +55,19 @@ Loja de terços artesanais com <b>monte o seu terço</b>, catálogo por coleçõ
 </td>
 <td width="33%" valign="top">
 
-### 🏛️ Vasconcellos
-Projeto desenvolvido para cliente pela NoxusSoft.
+### 🧘 Vasconcellos Studio
+Site do studio de <b>Fisioterapia e Pilates</b> em Londrina, com apresentação dos serviços e contato direto.
+
+<a href="https://vasconcellostudiolondrina.com.br"><img src="https://img.shields.io/badge/Ver_site-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
 
 </td>
 <td width="33%" valign="top">
 
 ### ⚡ NoxusSoft
 Minha empresa de desenvolvimento de sites, landing pages e sistemas para negócios locais.
+
+<a href="https://noxussoft.com.br"><img src="https://img.shields.io/badge/Site-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+<a href="https://www.instagram.com/noxussoft/"><img src="https://img.shields.io/badge/Insta-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 
 </td>
 </tr>
